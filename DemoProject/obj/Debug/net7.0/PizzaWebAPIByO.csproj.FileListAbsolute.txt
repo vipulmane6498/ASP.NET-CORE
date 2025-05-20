@@ -1,0 +1,7 @@
+D:\Vipul\ASP.NET\DemoProject\obj\Debug\net7.0\PizzaWebAPIByO.csproj.AssemblyReference.cache
+D:\Vipul\ASP.NET\DemoProject\obj\Debug\net7.0\PizzaWebAPIByO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vipul\ASP.NET\DemoProject\obj\Debug\net7.0\PizzaWebAPIByO.AssemblyInfoInputs.cache
+D:\Vipul\ASP.NET\DemoProject\obj\Debug\net7.0\PizzaWebAPIByO.AssemblyInfo.cs
+D:\Vipul\ASP.NET\DemoProject\obj\Debug\net7.0\PizzaWebAPIByO.csproj.CoreCompileInputs.cache
+D:\Vipul\ASP.NET\DemoProject\obj\Debug\net7.0\PizzaWebAPIByO.MvcApplicationPartsAssemblyInfo.cs
+D:\Vipul\ASP.NET\DemoProject\obj\Debug\net7.0\PizzaWebAPIByO.MvcApplicationPartsAssemblyInfo.cache
