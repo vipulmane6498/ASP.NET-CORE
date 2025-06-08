@@ -1,0 +1,128 @@
+Section -1 Introduction 16
+
+
+
+ASP.NET Core contains following modules:
+MVC
+Web API
+Blazor
+Razor Pages
+
+Diff between ASP.NET WEB Forms, ASP.NET MVC and ASP.NET Core: 
+
+
+Feature
+ASP.NET Web Forms
+ASP.NET MVC
+ASP.NET Core
+What is it?
+A UI-centric, event-driven framework similar to WinForms.
+
+Why Web forms is bad and due to which microsoft launches MVC ? ->
+Performance issues due to server events and view-state. And Not open-source
+
+
+
+ASP.NET Web Forms tries to make web apps behave like desktop apps by maintaining state.
+
+It uses something called ViewState to store page data (like form inputs) between requests.
+
+This ViewState becomes large as apps grow and must be sent back and forth between client and server on every request, slowing things down.
+
+Also, a complex page lifecycle with many server events runs for each request, making things even heavier and slower.
+
+These issues are okay for small apps but cause performance problems in medium to large applications.
+
+Unit testing is also hard due to tightly coupled code and page lifecycle.
+
+Overall, Web Forms is slow, heavy, and not suitable for modern, scalable web development. Microsoft launches ASP.NET MVC
+Open source
+A framework based on the MVC pattern for building web applications.
+
+Introduced in 2009, ASP.NET MVC uses the Model-View-Controller (MVC) pattern.
+
+This gives a clean separation of concerns, so you can unit test controllers, models, and views easily.
+
+It was a big improvement over Web Forms for testability and structure.
+
+Why MVC is bad and due to which mircrosfot launches ASP.NET Core ? ->
+It was built on top of old ASP.NET Web Forms components like System.Web.dll, making it partially slow.
+
+It's tightly linked to the .NET Framework, so it only works on Windows — no cross-platform support.
+
+Hosting on Linux/macOS or in cloud-native environments is difficult.
+
+These limitations led to the need for a faster, lighter, cross-platform alternative — which became ASP.NET Core.
+A cross-platform, high-performance, modern web framework.Open-source
+
+
+Initial Release
+2002 (with .NET Framework 1.0)
+2009 (with .NET Framework 3.5)
+2016 (as ASP.NET Core 1.0)
+Supported Platforms
+Windows only
+Windows only
+Cross-platform (Windows, Linux, macOS)
+Architecture
+Page-controller (event-driven, stateful)
+Model-View-Controller (clear separation of concerns)
+Modular MVC + Web API + Razor Pages architecture
+Latest Version
+.NET Framework 4.8 (no major updates)
+ASP.NET MVC 5 (last major release in 2013)
+ASP.NET Core 8 (part of .NET 8, LTS - released in Nov 2023)
+Development Style
+Drag-and-drop, code-behind
+Code-focused, clear separation
+Fully code-focused, modern tooling
+Cloud friendly
+Not Cloud friendly
+Slightly Cloud friendly
+Cloud friendly
+Testability
+Difficult
+Good
+Excellent
+Hosting Options
+IIS only
+IIS only
+Kestrel, IIS, Docker, Azure, Console apps, etc.
+View Engine
+ASPX (code-behind)
+Razor
+Razor
+State Management
+ViewState, Session, Application
+TempData, ViewBag, Session
+TempData, ViewBag, Session (lightweight)
+Performance
+Slower (ViewState-heavy)
+Better than Web Forms
+Best — designed for performance
+Dependency Injection
+Not supported
+Limited (via external libraries)
+Built-in DI container
+API Support
+Very limited
+Supported via ASP.NET Web API
+Unified framework for MVC & Web API
+Modern Features
+None
+Limited support for async, DI, REST
+Yes — minimal APIs, Blazor, gRPC, SignalR, async all the way
+Future of Framework
+Deprecated
+Legacy
+Actively developed and recommended
+
+
+
+Web API: 
+Web API is the component of ASP.NET Core.
+Used to create HTTP based RESTful services(also known as HTTP services) that can be consumed(invoked) by a wide range of client applications such as single-page web applications, mobile applications.
+
+RESTful Services:
+Representational State Transfer is an architecture style that defines to create HTTP services that receives HTTP GET, POST, PUT, DELETE requests.
+It performs CRUD operations on the appropriate data source and returns JSON/XML data as response to the client.
