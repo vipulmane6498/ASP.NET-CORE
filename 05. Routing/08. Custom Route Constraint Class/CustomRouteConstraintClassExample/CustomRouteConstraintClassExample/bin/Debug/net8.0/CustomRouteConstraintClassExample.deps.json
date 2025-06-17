@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CustomRouteConstraintClassExample/1.0.0": {
+        "runtime": {
+          "CustomRouteConstraintClassExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomRouteConstraintClassExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
