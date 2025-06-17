@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteConstraitsExample", "RouteConstraitsExample\RouteConstraitsExample.csproj", "{A41A81AE-A5C1-4BE5-B69F-2D4393F08E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41A81AE-A5C1-4BE5-B69F-2D4393F08E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41A81AE-A5C1-4BE5-B69F-2D4393F08E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41A81AE-A5C1-4BE5-B69F-2D4393F08E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41A81AE-A5C1-4BE5-B69F-2D4393F08E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32FFCD0D-3909-4B84-9CD6-4C4772B63495}
+	EndGlobalSection
+EndGlobal
