@@ -1,0 +1,1 @@
+{"ContentRoots":["D:\\ASP.NET CORE\\4. Routing\\10. WebRoute and useStaticFiles\\WebRouteAndUseStaticFilesExample\\WebRouteAndUseStaticFilesExample\\wwwroot\\"],"Root":{"Children":{"Helloworld.pdf":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"Helloworld.pdf"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}

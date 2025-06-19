@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "f3JYzFYm4py45IVaw7Tbhl3eAFSSUdtZozMxvXvWmZQ=",
+  "Source": "WebRouteAndUseStaticFilesExample",
+  "BasePath": "_content/WebRouteAndUseStaticFilesExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebRouteAndUseStaticFilesExample\\wwwroot",
+      "Source": "WebRouteAndUseStaticFilesExample",
+      "ContentRoot": "D:\\ASP.NET CORE\\4. Routing\\10. WebRoute and useStaticFiles\\WebRouteAndUseStaticFilesExample\\WebRouteAndUseStaticFilesExample\\wwwroot\\",
+      "BasePath": "_content/WebRouteAndUseStaticFilesExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ASP.NET CORE\\4. Routing\\10. WebRoute and useStaticFiles\\WebRouteAndUseStaticFilesExample\\WebRouteAndUseStaticFilesExample\\wwwroot\\Helloworld.pdf",
+      "SourceId": "WebRouteAndUseStaticFilesExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET CORE\\4. Routing\\10. WebRoute and useStaticFiles\\WebRouteAndUseStaticFilesExample\\WebRouteAndUseStaticFilesExample\\wwwroot\\",
+      "BasePath": "_content/WebRouteAndUseStaticFilesExample",
+      "RelativePath": "Helloworld.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Helloworld.pdf"
+    }
+  ]
+}
