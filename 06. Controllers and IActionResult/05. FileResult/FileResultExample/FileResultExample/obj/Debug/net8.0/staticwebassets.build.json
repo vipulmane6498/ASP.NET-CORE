@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "gCkOFLqfYx9nBsbqS+Vymre0iJJJMEX/0NmFboB7K60=",
+  "Source": "FileResultExample",
+  "BasePath": "_content/FileResultExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileResultExample\\wwwroot",
+      "Source": "FileResultExample",
+      "ContentRoot": "D:\\ASP.NET CORE\\6. Controllers and IActionResult\\5. FileResult\\FileResultExample\\FileResultExample\\wwwroot\\",
+      "BasePath": "_content/FileResultExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ASP.NET CORE\\6. Controllers and IActionResult\\5. FileResult\\FileResultExample\\FileResultExample\\wwwroot\\Hello.pdf",
+      "SourceId": "FileResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET CORE\\6. Controllers and IActionResult\\5. FileResult\\FileResultExample\\FileResultExample\\wwwroot\\",
+      "BasePath": "_content/FileResultExample",
+      "RelativePath": "Hello.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hello.pdf"
+    }
+  ]
+}
