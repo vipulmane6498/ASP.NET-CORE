@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET CORE\\6. Controllers and IActionResult\\7. StatusCodeResult\\StatusCodeResultExample\\StatusCodeResultExample\\wwwroot\\Hello.pdf",
+      "PackagePath": "staticwebassets\\Hello.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StatusCodeResultExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StatusCodeResultExample.props",
+      "PackagePath": "build\\StatusCodeResultExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StatusCodeResultExample.props",
+      "PackagePath": "buildMultiTargeting\\StatusCodeResultExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StatusCodeResultExample.props",
+      "PackagePath": "buildTransitive\\StatusCodeResultExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

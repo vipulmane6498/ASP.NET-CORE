@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "09MEDg+o48WqOdSamUDaSg0yrY8nGJH6KxIwR0KB8tg=",
+  "Source": "StatusCodeResultExample",
+  "BasePath": "_content/StatusCodeResultExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StatusCodeResultExample\\wwwroot",
+      "Source": "StatusCodeResultExample",
+      "ContentRoot": "D:\\ASP.NET CORE\\6. Controllers and IActionResult\\7. StatusCodeResult\\StatusCodeResultExample\\StatusCodeResultExample\\wwwroot\\",
+      "BasePath": "_content/StatusCodeResultExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ASP.NET CORE\\6. Controllers and IActionResult\\7. StatusCodeResult\\StatusCodeResultExample\\StatusCodeResultExample\\wwwroot\\Hello.pdf",
+      "SourceId": "StatusCodeResultExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET CORE\\6. Controllers and IActionResult\\7. StatusCodeResult\\StatusCodeResultExample\\StatusCodeResultExample\\wwwroot\\",
+      "BasePath": "_content/StatusCodeResultExample",
+      "RelativePath": "Hello.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hello.pdf"
+    }
+  ]
+}
