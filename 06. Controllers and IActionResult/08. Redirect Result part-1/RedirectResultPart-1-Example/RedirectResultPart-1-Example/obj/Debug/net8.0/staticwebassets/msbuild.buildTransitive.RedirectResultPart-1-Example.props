@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RedirectResultPart-1-Example.props" />
+</Project>
