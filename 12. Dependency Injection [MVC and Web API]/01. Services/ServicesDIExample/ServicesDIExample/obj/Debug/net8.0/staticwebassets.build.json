@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "DewaQw4dA+j3EsZoyNvweCDAPzISPNxjd8QavDPBMaU=",
+  "Source": "ServicesDIExample",
+  "BasePath": "_content/ServicesDIExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ServicesDIExample\\wwwroot",
+      "Source": "ServicesDIExample",
+      "ContentRoot": "D:\\ASP.NET CORE\\12. Dependency Injection [MVC and Web API]\\01. Services\\ServicesDIExample\\ServicesDIExample\\wwwroot\\",
+      "BasePath": "_content/ServicesDIExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ASP.NET CORE\\12. Dependency Injection [MVC and Web API]\\01. Services\\ServicesDIExample\\ServicesDIExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "ServicesDIExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET CORE\\12. Dependency Injection [MVC and Web API]\\01. Services\\ServicesDIExample\\ServicesDIExample\\wwwroot\\",
+      "BasePath": "_content/ServicesDIExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
